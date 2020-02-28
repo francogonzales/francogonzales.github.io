@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Franco Gonzales"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Recent graduate from the University of California, Davis looking for a full-time position."
+  avatar           : "/images/biophoto.jpg"
+  bio              : "Recent graduate from the University of California, Davis."
   location         : "Sacramento, CA"
-  email            :
+  email            : "francobg97@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:francobg97@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
