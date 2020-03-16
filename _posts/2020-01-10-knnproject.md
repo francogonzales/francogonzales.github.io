@@ -1,7 +1,7 @@
 ---
 title: "K-Nearest Neighbor in R"
 date: 2020-01-10
-tags: [machine learning, data science, knn]
+tags: [Projects]
 header:
     image: "/images/header.jpg"
 excerpt: "Making a K-Nearest Neighbor model from scratch."
